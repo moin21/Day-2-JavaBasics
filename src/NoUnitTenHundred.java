@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class noUnitTenHundred {
+public class NoUnitTenHundred {
     public static void main(String[] args) {
         System.out.println("Enter any no. between 0 to 1000");
         Scanner sc = new Scanner(System.in);

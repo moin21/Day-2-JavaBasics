@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class readNoPrintWords {
+public class ReadNoPrintWords {
     public static void main(String[] args) {
         System.out.println("Enter a no. between 0 to 9");
         Scanner sc = new Scanner(System.in);

@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
-import java.util.*;
-
-class sumOfNo {
+class SumOfNoWhile {
 
     public static void main(String[] args) {
         int sum = 0;
